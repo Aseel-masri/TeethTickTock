@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614464979405",
+    "project_id": "messages-app-6cf66",
+    "storage_bucket": "messages-app-6cf66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614464979405:android:e148a5bb56636b8996c484",
+        "android_client_info": {
+          "package_name": "com.miraAseel.teethTickTock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVcz6bkYDduEybXdCTucDwWQaOYUl6jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
